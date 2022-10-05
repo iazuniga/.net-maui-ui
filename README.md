@@ -3,7 +3,7 @@ Ejemplo UI .Net MAUI, básico. Modificado con fines didácticos. Original: https
 > UI Pages: ContentPage, FlyoutPage, NavigationPage yTabbedPage. 📱
 
 
-## Nota
+## Nota:
 En App.xaml.cs, segun la UI page que se ejemplifica se aplica o ignora el código correspondiente: 
 ```
 	public App()
